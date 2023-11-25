@@ -1,6 +1,6 @@
 ---
 description: some extra description
-cover: ../.gitbook/assets/toast.jpg
+cover: https://todaysveterinarybusiness.com/wp-content/uploads/sites/2/2020/03/Innovation-Station.jpg
 coverY: 0
 layout:
   cover:
@@ -20,11 +20,13 @@ layout:
 
 # page 2 - with cover
 
-### v1&#x20;
+Some text
+
+## v1
 
 * cover image
 
-### v2
+## v2
 
 * hero image
 * added description (subtitle)
