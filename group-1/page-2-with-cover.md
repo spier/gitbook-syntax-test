@@ -36,3 +36,6 @@ Some text
 ## v3
 
 <table><thead><tr><th>Organization</th><th>pattern 1</th><th>pattern 2</th><th data-type="checkbox">pattern 3</th></tr></thead><tbody><tr><td>SAP</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td></td><td>false</td></tr><tr><td>Bosch</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td>false</td></tr><tr><td>GitHub</td><td></td><td></td><td>true</td></tr></tbody></table>
+
+<div><figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/4.png" alt="" width="188"><figcaption></figcaption></figure></div>
+
